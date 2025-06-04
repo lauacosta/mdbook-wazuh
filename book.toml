@@ -1,0 +1,5 @@
+[book]
+authors = ["Lautaro Acosta Quintana"]
+language = "es-AR"
+src = "src"
+title = "Wazuh"
